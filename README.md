@@ -16,10 +16,6 @@ The script uses the following Python libraries:
 - **`numpy`**: For numerical operations and efficient array handling.
 - **`netCDF4`**: For reading NetCDF file data.
 
-Install the required libraries using `pip`:
-```bash
-pip install numpy netCDF4
-
 ---
 
 ## License  
